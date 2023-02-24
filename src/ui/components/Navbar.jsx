@@ -18,7 +18,7 @@ export const Navbar = () => {
                 className="navbar-brand" 
                 to="/"
             >
-                Asociaciones
+                Departamentos
             </Link>
 
             <div className="navbar-collapse">
@@ -26,23 +26,23 @@ export const Navbar = () => {
 
                     <NavLink 
                         className={ ({isActive}) => `nav-item nav-link  ${ isActive ? 'active':'' }` }
-                        to="/marvel"
+                        to="/recamaras"
                     >
-                        Marvel
+                        Recamaras
                     </NavLink>
 
                     <NavLink 
                         className={ ({isActive}) => `nav-item nav-link  ${ isActive ? 'active':'' }` }
-                        to="/dc"
+                        to="/salas"
                     >
-                        DC
+                        Salas
                     </NavLink>
                     
                     <NavLink 
                         className={ ({isActive}) => `nav-item nav-link  ${ isActive ? 'active':'' }` }
                         to="/search"
                     >
-                        Search
+                        Busqueda
                     </NavLink>
                 </div>
             </div>
@@ -51,7 +51,7 @@ export const Navbar = () => {
                 <ul className="navbar-nav ml-auto">
                    
                     <span className="nav-item nav-link text-primary">
-                        Fernando
+                        User
                     </span>
 
                     <button

@@ -1,13 +1,13 @@
-import { heroes } from '../data/heroes';
+import { articles } from '../data/articles';
 
 
-export const getHeroesByName = ( name = '' ) => {
+export const getArticlesByName = ( name = '' ) => {
 
     name = name.toLocaleLowerCase().trim();
     
     if ( name.length === 0 ) return [];
 
-    return heroes.filter(
+    return articles.filter(
         hero => hero.superhero.toLocaleLowerCase().includes( name ) 
     );
 
