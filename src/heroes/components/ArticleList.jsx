@@ -1,6 +1,6 @@
 
 import { useMemo } from 'react';
-import { HeroCard } from '.';
+import { ArticleCard } from '.';
 import { getArticlesByDepartment } from '../helpers';
 
 export const ArticleList = ({ department }) => {
@@ -11,7 +11,7 @@ export const ArticleList = ({ department }) => {
         <div className="row rows-cols-1 row-cols-md-3 g-3">
             {
                 departments.map( department => (
-                    <HeroCard 
+                    <ArticleCard 
                         key={ department.id } 
                         { ...department }
                     />

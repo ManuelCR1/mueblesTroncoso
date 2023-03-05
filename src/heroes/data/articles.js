@@ -1,162 +1,122 @@
 export const articles = [
     {
-        'id': 'dc-batman',
-        'superhero':'Batman', 
-        'department':'recamaras', 
-        'alter_ego':'Bruce Wayne',
-        'first_appearance':'Detective Comics #27',
-        'characters':'Bruce Wayne'
+        'id': 'colchones-CarreiroCGI',
+        'name':'CGI',
+        'department':'recamaras',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
     },
     {
-        'id': 'dc-superman',
-        'superhero':'Superman', 
+        'id': 'colchones-RestonicElegance',
+        'name':'ELEGANCE', 
         'department':'recamaras', 
-        'alter_ego':'Kal-El',
-        'first_appearance':'Action Comics #1',
-        'characters':'Kal-El'
+        'marca':'Kal-El',
+        'size':'',
+        'description':''
     },
     {
-        'id': 'dc-flash',
-        'superhero':'Flash', 
+        'id': 'colchones-RestonicLegend',
+        'name':'Legend', 
         'department':'recamaras', 
-        'alter_ego':'Jay Garrick',
-        'first_appearance':'Flash Comics #1',
-        'characters':'Jay Garrick, Barry Allen, Wally West, Bart Allen'
+        'marca':'Restonic',
+        'size':'',
+        'description':''
     },
     {
-        'id': 'dc-green',
-        'superhero':'Green Lantern', 
+        'id': 'colchones-RestonicPalm',
+        'name':'Palm', 
         'department':'recamaras', 
-        'alter_ego':'Alan Scott',
-        'first_appearance':'All-American Comics #16',
-        'characters':'Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz'
+        'marca':'Restonic',
+        'size':'',
+        'description':''
     },
     {
-        'id': 'dc-arrow',
-        'superhero':'Green Arrow', 
+        'id': 'colchones-WendyBamboo',
+        'name':'Bamboo', 
         'department':'recamaras', 
-        'alter_ego':'Oliver Queen',
-        'first_appearance':'More Fun Comics #73',
-        'characters':'Oliver Queen'
-    },
-    {
-        'id': 'dc-wonder',
-        'superhero':'Wonder Woman', 
-        'department':'recamaras', 
-        'alter_ego':'Princess Diana',
-        'first_appearance':'All Star Comics #8',
-        'characters':'Princess Diana'
-    },
-    {
-        'id': 'dc-martian',
-        'superhero':'Martian Manhunter', 
-        'department':'recamaras', 
-        'alter_ego':'J\'onn J\'onzz',
-        'first_appearance':'Detective Comics #225',
-        'characters':'Martian Manhunter'
-    },
-    {
-        'id': 'dc-robin',
-        'superhero':'Robin/Nightwing', 
-        'department':'recamaras', 
-        'alter_ego':'Dick Grayson',
-        'first_appearance':'Detective Comics #38',
-        'characters':'Dick Grayson'
-    },
-    {
-        'id': 'dc-blue',
-        'superhero':'Blue Beetle', 
-        'department':'recamaras', 
-        'alter_ego':'Dan Garret',
-        'first_appearance':'Mystery Men Comics #1',
-        'characters':'Dan Garret, Ted Kord, Jaime Reyes'
-    },
-    {
-        'id': 'dc-black',
-        'superhero':'Black Canary', 
-        'department':'recamaras', 
-        'alter_ego':'Dinah Drake',
-        'first_appearance':'Flash Comics #86',
-        'characters':'Dinah Drake, Dinah Lance'
+        'marca':'Wendy',
+        'size':'',
+        'description':''
     },
     {
         'id': 'marvel-spider',
-        'superhero':'Spider Man', 
+        'name':'Spider Man', 
         'department':'salas', 
-        'alter_ego':'Peter Parker',
-        'first_appearance':'Amazing Fantasy #15',
-        'characters':'Peter Parker'
+        'marca':'Peter Parker',
+        'size':'Amazing Fantasy #15',
+        'description':'Peter Parker'
     },
     {
         'id': 'marvel-captain',
-        'superhero':'Captain America', 
+        'name':'Captain America', 
         'department':'salas', 
-        'alter_ego':'Steve Rogers',
-        'first_appearance':'Captain America Comics #1',
-        'characters':'Steve Rogers'
+        'marca':'Steve Rogers',
+        'size':'Captain America Comics #1',
+        'description':'Steve Rogers'
     },
     {
         'id': 'marvel-iron',
-        'superhero':'Iron Man', 
+        'name':'Iron Man', 
         'department':'salas', 
-        'alter_ego':'Tony Stark',
-        'first_appearance':'Tales of Suspense #39',
-        'characters':'Tony Stark'
+        'marca':'Tony Stark',
+        'size':'Tales of Suspense #39',
+        'description':'Tony Stark'
     },
     {
         'id': 'marvel-thor',
-        'superhero':'Thor', 
+        'name':'Thor', 
         'department':'salas', 
-        'alter_ego':'Thor Odinson',
-        'first_appearance':'Journey into Myster #83',
-        'characters':'Thor Odinson'
+        'marca':'Thor Odinson',
+        'size':'Journey into Myster #83',
+        'description':'Thor Odinson'
     },
     {
         'id': 'marvel-hulk',
-        'superhero':'Hulk', 
+        'name':'Hulk', 
         'department':'salas', 
-        'alter_ego':'Bruce Banner',
-        'first_appearance':'The Incredible Hulk #1',
-        'characters':'Bruce Banner'
+        'marca':'Bruce Banner',
+        'size':'The Incredible Hulk #1',
+        'description':'Bruce Banner'
     },
     {
         'id': 'marvel-wolverine',
-        'superhero':'Wolverine', 
+        'name':'Wolverine', 
         'department':'salas', 
-        'alter_ego':'James Howlett',
-        'first_appearance':'The Incredible Hulk #180',
-        'characters':'James Howlett'
+        'marca':'James Howlett',
+        'size':'The Incredible Hulk #180',
+        'description':'James Howlett'
     },
     {
         'id': 'marvel-daredevil',
-        'superhero':'Daredevil', 
+        'name':'Daredevil', 
         'department':'salas', 
-        'alter_ego':'Matthew Michael Murdock',
-        'first_appearance':'Daredevil #1',
-        'characters':'Matthew Michael Murdock'
+        'marca':'Matthew Michael Murdock',
+        'size':'Daredevil #1',
+        'description':'Matthew Michael Murdock'
     },
     {
         'id': 'marvel-hawkeye',
-        'superhero':'Hawkeye', 
+        'name':'Hawkeye', 
         'department':'salas', 
-        'alter_ego':'Clinton Francis Barton',
-        'first_appearance':'Tales of Suspense #57',
-        'characters':'Clinton Francis Barton'
+        'marca':'Clinton Francis Barton',
+        'size':'Tales of Suspense #57',
+        'description':'Clinton Francis Barton'
     },
     {
         'id': 'marvel-cyclops',
-        'superhero':'Cyclops', 
+        'name':'Cyclops', 
         'department':'salas', 
-        'alter_ego':'Scott Summers',
-        'first_appearance':'X-Men #1',
-        'characters':'Scott Summers'
+        'marca':'Scott Summers',
+        'size':'X-Men #1',
+        'description':'Scott Summers'
     },
     {
         'id': 'marvel-silver',
-        'superhero':'Silver Surfer', 
+        'name':'Silver Surfer', 
         'department':'salas', 
-        'alter_ego':'Norrin Radd',
-        'first_appearance':'The Fantastic Four #48',
-        'characters':'Norrin Radd'
+        'marca':'Norrin Radd',
+        'size':'The Fantastic Four #48',
+        'description':'Norrin Radd'
     }
 ]

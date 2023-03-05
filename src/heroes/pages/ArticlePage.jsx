@@ -32,13 +32,13 @@ export const ArticlePage = () => {
       <div className="col-8">
         <h3>{ article.superhero }</h3>
         <ul className="list-group list-group-flush">
-          <li className="list-group-item"> <b>Alter ego:</b> { article.alter_ego } </li>
+          <li className="list-group-item"> <b>Marca:</b> { article.marca } </li>
           <li className="list-group-item"> <b>Department:</b> { article.department } </li>
-          <li className="list-group-item"> <b>First appearance:</b> { article.first_appearance } </li>
+          <li className="list-group-item"> <b>Medidas:</b> { article.size } </li>
         </ul>
 
-        <h5 className="mt-3"> Characters </h5>
-        <p>{ article.characters }</p>
+        <h5 className="mt-3">Descripcion</h5>
+        <p>{ article.description }</p>
 
         <button 
           className="btn btn-outline-primary"

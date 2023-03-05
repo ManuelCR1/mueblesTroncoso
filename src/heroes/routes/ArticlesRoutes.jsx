@@ -2,7 +2,7 @@ import { Navigate, Route, Routes } from 'react-router-dom';
 import { Navbar } from '../../ui';
 import { SalasPage, ArticlePage, RecamarasPage, SearchPage } from '../pages';
 
-export const HeroesRoutes = () => {
+export const ArticlesRoutes = () => {
   return (
     <>
         <Navbar />

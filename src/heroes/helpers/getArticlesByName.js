@@ -8,7 +8,7 @@ export const getArticlesByName = ( name = '' ) => {
     if ( name.length === 0 ) return [];
 
     return articles.filter(
-        hero => hero.superhero.toLocaleLowerCase().includes( name ) 
+        article => article.name.toLocaleLowerCase().includes( name ) 
     );
 
 }
