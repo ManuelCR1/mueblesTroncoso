@@ -18,7 +18,7 @@ export const Navbar = () => {
                 className="navbar-brand" 
                 to="/"
             >
-                Departamentos
+                La más barata de Puruandido?
             </Link>
 
             <div className="navbar-collapse">
