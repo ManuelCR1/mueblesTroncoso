@@ -376,6 +376,102 @@ export const articles = [
         'description':''
     },
     {
+        'id': 'servicio-lavadoras-ALF1551ER1-1',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-ALF1551ER1-2',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-ALF1551ER1-3',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-ALF1551ER1-4',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-ALF1551ER1-5',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRE18V-1',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRE18V-2',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRE18V-3',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-planchas-GCSTUP8202-1',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-planchas-GCSTUP8202-2',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-planchas-GCSTUP8202-3',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-planchas-GCSTUP8202-4',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
         'id': 'recamaras-CarreiroCGI',
         'name':'CGI',
         'department':'recamaras',
