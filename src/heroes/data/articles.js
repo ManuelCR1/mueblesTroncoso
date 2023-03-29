@@ -1,5 +1,405 @@
 export const articles = [
     {
+        'id': 'cocina-refrigeradores-WD2620S-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-WD2620S-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-WD2620S-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-WD2620S-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-RF22A4010S9-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-RF22A4010S9-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-RF22A4010S9-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-RF22A4010S9-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTUP0022R-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTUP0022R-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTUP0022R-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTUP0022R-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTUP0022R-5',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTMP-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTMP-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTMP-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTMP-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-465-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-465-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-465-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-465-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-6662-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-6662-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-6662-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTSE75-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTSE75-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-BLSTSE75-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-LN8145MX-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-LN8145MX-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-LN8145MX-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-licuadoras-LN8145MX-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-microondas-DMDXX11S2WW-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-microondas-DMDXX11S2WW-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-microondas-DMDXX11S2WW-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-microondas-DMDXX11S2WW-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-microondas-KOR1N3AW-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-microondas-KOR1N3AW-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-microondas-KOR1N3AW-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-RMA300FJMRE-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-RMA300FJMRE-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-RMA300FJMRE-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LT57BPSX-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LT57BPSX-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LT57BPSX-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LT57BPSX-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LM65BGSK-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LM65BGSK-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LM65BGSK-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LM65BGSK-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-refrigeradores-LM65BGSK-5',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
         'id': 'cocina-estufas-AF5001Z-1',
         'name':'CGI',
         'department':'cocina',
@@ -432,7 +832,39 @@ export const articles = [
         'description':''
     },
     {
-        'id': 'servicio-lavadoras-LRE18V-3',
+        'id': 'servicio-lavadoras-LRKF21P-1',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRKF21P-2',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRKF21P-3',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRKF21P-4',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRE18V-3', 
         'name':'CGI',
         'department':'servicio',
         'marca':'Carreiro',
