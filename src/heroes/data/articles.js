@@ -1,6 +1,382 @@
 export const articles = [
     {
-        'id': 'colchones-CarreiroCGI',
+        'id': 'cocina-estufas-AF5001Z-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-AF5001Z-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-AF5001Z-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-AF5001Z-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-AF5334D-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-AF5334D-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-AF5334D-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-AF5334D-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-AF5334D-5',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-EK501FNM-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-EK501FNM-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-EK501FNM-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-EK501FNM-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-WFR3400D-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-WFR3400D-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-WFR3400D-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-estufas-WFR3400D-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-WRH1810GBMX-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-WRH1810GBMX-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-WRH1810GBMX-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-WRH1810GBMX-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-CRIOTEC-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-CRIOTEC-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-CRIOTEC-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-CRIOTEC-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-FC15D6BWX-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-FC15D6BWX-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-FC15D6BWX-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-MFCD09P2NABW-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-MFCD09P2NABW-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-MFCD09P2NABW-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-MFCD09P2NABW-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-MFCD09P2NABW-5',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-MFCD09P2NABW-6',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-MFCD09P2NABW-7',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-FC50D6AWX-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-FC50D6AWX-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-FC50D6AWX-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-WC0518Q-1',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-WC0518Q-2',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-WC0518Q-3',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'cocina-congeladores-WC0518Q-4',
+        'name':'CGI',
+        'department':'cocina',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRK1611A-1',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRK1611A-2',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRK1611A-3',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRK1611A-4',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'servicio-lavadoras-LRK1611A-5',
+        'name':'CGI',
+        'department':'servicio',
+        'marca':'Carreiro',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-CarreiroCGI',
         'name':'CGI',
         'department':'recamaras',
         'marca':'Carreiro',
@@ -8,7 +384,7 @@ export const articles = [
         'description':''
     },
     {
-        'id': 'colchones-RestonicElegance',
+        'id': 'recamaras-RestonicElegance',
         'name':'ELEGANCE', 
         'department':'recamaras', 
         'marca':'Kal-El',
@@ -16,7 +392,7 @@ export const articles = [
         'description':''
     },
     {
-        'id': 'colchones-RestonicLegend',
+        'id': 'recamaras-RestonicLegend',
         'name':'Legend', 
         'department':'recamaras', 
         'marca':'Restonic',
@@ -24,7 +400,127 @@ export const articles = [
         'description':''
     },
     {
-        'id': 'colchones-RestonicPalm',
+        'id': 'recamaras-ventiladores-922P-2',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-922P',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-3123-2',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':'jala chido es del tadeo'
+    },
+    {
+        'id': 'recamaras-ventiladores-3123-3',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-3123-4',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-3123-5',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-3123',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-YD-12P',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-YD-12P-2',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-YD-16P-2',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-YD-16P',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-YD-18M3-2',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':'jala chido'
+    },
+    {
+        'id': 'recamaras-ventiladores-YD-18M3',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-YD10P-2',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-ventiladores-YD10P',
+        'name':'Legend', 
+        'department':'recamaras', 
+        'marca':'Restonic',
+        'size':'',
+        'description':''
+    },
+    {
+        'id': 'recamaras-RestonicPalm',
         'name':'Palm', 
         'department':'recamaras', 
         'marca':'Restonic',
@@ -32,7 +528,7 @@ export const articles = [
         'description':''
     },
     {
-        'id': 'colchones-WendyBamboo',
+        'id': 'recamaras-WendyBamboo',
         'name':'Bamboo', 
         'department':'recamaras', 
         'marca':'Wendy',
@@ -40,7 +536,7 @@ export const articles = [
         'description':''
     },
     {
-        'id': 'marvel-spider',
+        'id': 'salas-cojines-1',
         'name':'Spider Man', 
         'department':'salas', 
         'marca':'Peter Parker',
@@ -48,7 +544,7 @@ export const articles = [
         'description':'Peter Parker'
     },
     {
-        'id': 'marvel-captain',
+        'id': 'salas-cojines-1-2',
         'name':'Captain America', 
         'department':'salas', 
         'marca':'Steve Rogers',
@@ -56,7 +552,7 @@ export const articles = [
         'description':'Steve Rogers'
     },
     {
-        'id': 'marvel-iron',
+        'id': 'salas-cojines-2',
         'name':'Iron Man', 
         'department':'salas', 
         'marca':'Tony Stark',
@@ -64,7 +560,7 @@ export const articles = [
         'description':'Tony Stark'
     },
     {
-        'id': 'marvel-thor',
+        'id': 'salas-cojines-2-2',
         'name':'Thor', 
         'department':'salas', 
         'marca':'Thor Odinson',
@@ -72,7 +568,7 @@ export const articles = [
         'description':'Thor Odinson'
     },
     {
-        'id': 'marvel-hulk',
+        'id': 'salas-cojines-2-3',
         'name':'Hulk', 
         'department':'salas', 
         'marca':'Bruce Banner',
@@ -80,7 +576,7 @@ export const articles = [
         'description':'Bruce Banner'
     },
     {
-        'id': 'marvel-wolverine',
+        'id': 'salas-cojines-3',
         'name':'Wolverine', 
         'department':'salas', 
         'marca':'James Howlett',
@@ -88,7 +584,7 @@ export const articles = [
         'description':'James Howlett'
     },
     {
-        'id': 'marvel-daredevil',
+        'id': 'salas-cojines-3-2',
         'name':'Daredevil', 
         'department':'salas', 
         'marca':'Matthew Michael Murdock',
@@ -96,7 +592,7 @@ export const articles = [
         'description':'Matthew Michael Murdock'
     },
     {
-        'id': 'marvel-hawkeye',
+        'id': 'salas-cojines-4',
         'name':'Hawkeye', 
         'department':'salas', 
         'marca':'Clinton Francis Barton',
@@ -104,7 +600,7 @@ export const articles = [
         'description':'Clinton Francis Barton'
     },
     {
-        'id': 'marvel-cyclops',
+        'id': 'salas-cojines-4-2',
         'name':'Cyclops', 
         'department':'salas', 
         'marca':'Scott Summers',
@@ -112,7 +608,47 @@ export const articles = [
         'description':'Scott Summers'
     },
     {
-        'id': 'marvel-silver',
+        'id': 'salas-cojines-5',
+        'name':'Silver Surfer', 
+        'department':'salas', 
+        'marca':'Norrin Radd',
+        'size':'The Fantastic Four #48',
+        'description':'Norrin Radd'
+    },
+    {
+        'id': 'salas-cojines-5-2',
+        'name':'Silver Surfer', 
+        'department':'salas', 
+        'marca':'Norrin Radd',
+        'size':'The Fantastic Four #48',
+        'description':'Norrin Radd'
+    },
+    {
+        'id': 'salas-cojines-5-3',
+        'name':'Silver Surfer', 
+        'department':'salas', 
+        'marca':'Norrin Radd',
+        'size':'The Fantastic Four #48',
+        'description':'Norrin Radd'
+    },
+    {
+        'id': 'salas-cojines-6',
+        'name':'Silver Surfer', 
+        'department':'salas', 
+        'marca':'Norrin Radd',
+        'size':'The Fantastic Four #48',
+        'description':'Norrin Radd'
+    },
+    {
+        'id': 'salas-cojines-6-2',
+        'name':'Silver Surfer', 
+        'department':'salas', 
+        'marca':'Norrin Radd',
+        'size':'The Fantastic Four #48',
+        'description':'Norrin Radd'
+    },
+    {
+        'id': 'salas-cojines-6-3',
         'name':'Silver Surfer', 
         'department':'salas', 
         'marca':'Norrin Radd',

@@ -26,17 +26,12 @@ export const ArticleCard = ({
     return (
         <div className="col animate__animated animate__fadeIn">
             <div className="card">
-
                 <div className="row no-gutters">
-                    
                     <div className="col-4">
                         <img src={ heroImageUrl } className="card-img" alt={ name } />
                     </div>
-
                     <div className="col-8">
-
                         <div className="card-body">
-
                             <h5 className="card-title">{ name }</h5>
                             <p className="card-text">{ marca }</p>
 
@@ -53,15 +48,9 @@ export const ArticleCard = ({
                             <Link to={`/article/${ id }`}>
                                 Más..
                             </Link>
-
-                            
                         </div>
-
                     </div>
-
-
                 </div>
-
             </div>
         </div>
     )

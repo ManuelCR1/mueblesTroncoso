@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 
-import { HeroesRoutes } from '../heroes';
+import { ArticlesRoutes } from '../heroes';
 import { LoginPage } from '../auth';
 
 
@@ -14,7 +14,7 @@ export const AppRouter = () => {
             <Route path="login" element={<LoginPage />} />
             
             
-            <Route path="/*" element={ <HeroesRoutes />} />
+            <Route path="/*" element={ <ArticlesRoutes />} />
             
             
 

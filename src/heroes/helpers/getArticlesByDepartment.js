@@ -3,7 +3,7 @@ import { articles } from '../data/articles';
 
 export const getArticlesByDepartment = ( department ) =>{
 
-    const validDepartments = ['recamaras', 'salas'];
+    const validDepartments = ['recamaras', 'salas', 'cocina', 'servicio'];
     if (!validDepartments.includes(department)) {
         throw new Error(`${ department } is not a valid department`);
     }

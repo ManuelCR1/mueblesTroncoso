@@ -24,6 +24,12 @@ export const Navbar = () => {
             <div className="navbar-collapse">
                 <div className="navbar-nav">
 
+                <NavLink 
+                        className={ ({isActive}) => `nav-item nav-link  ${ isActive ? 'active':'' }` }
+                        to="/cocina"
+                    >
+                        Cocina
+                    </NavLink>
                     <NavLink 
                         className={ ({isActive}) => `nav-item nav-link  ${ isActive ? 'active':'' }` }
                         to="/recamaras"
@@ -37,7 +43,14 @@ export const Navbar = () => {
                     >
                         Salas
                     </NavLink>
-                    
+
+                    <NavLink 
+                        className={ ({isActive}) => `nav-item nav-link  ${ isActive ? 'active':'' }` }
+                        to="/servicio"
+                    >
+                        Servicio
+                    </NavLink>
+
                     <NavLink 
                         className={ ({isActive}) => `nav-item nav-link  ${ isActive ? 'active':'' }` }
                         to="/search"
