@@ -1,0 +1,33 @@
+body{
+    background-color: indianred;
+}
+h1 {
+    background-color: indianred;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.root{
+    background-color: brown;
+    color: black;
+    text-align: center;
+}
+
+.navbar-brand{
+    background-color: brown;
+    font-style: italic;
+}
+.navbar-collapse{
+    background-color: brown;
+    font-style: italic;
+    text-align: center;
+}
+.navbar-expand-sm{
+    background-color: tomato;
+    text-align: center;
+}
+.row{
+    background-color: beige;
+    font-style: italic;
+}
+
