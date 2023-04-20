@@ -254,7 +254,7 @@ export const articles = [
         'department':'cocina',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'ALTO 32 CM , ANCHO 52 CM  , PROFUNDO 49 CM , Nuevo diseño con jaladera , Panel de control digital con LED verde,10 niveles de potencia, Potencia de 500 Watts'
     },
     {
         'id': 'cocina-microondas-DMDXX11S2WW-2',
@@ -262,7 +262,7 @@ export const articles = [
         'department':'cocina',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'ALTO 32 CM , ANCHO 52 CM  , PROFUNDO 49 CM , Nuevo diseño con jaladera , Panel de control digital con LED verde,10 niveles de potencia, 5 programas predeterminados de cocinado, Potencia de 900 Watts'
     },
     {
         'id': 'cocina-microondas-DMDXX11S2WW-3',
@@ -270,7 +270,7 @@ export const articles = [
         'department':'cocina',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'ALTO 32 CM , ANCHO 52 CM  , PROFUNDO 49 CM , Nuevo diseño con jaladera , Panel de control digital con LED verde,10 niveles de potencia, 6 programas predeterminados de cocinado, Funciones para descongelar, Opción de descongelar por peso y tiempo, Temporizador, Opción de +20 segundos, Potencia de 1000 Watts'
     },
     {
         'id': 'cocina-microondas-DMDXX11S2WW-4',
@@ -278,7 +278,7 @@ export const articles = [
         'department':'cocina',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'ALTO 32 CM , ANCHO 52 CM  , PROFUNDO 49 CM , Nuevo diseño con jaladera , Panel de control digital con LED verde,10 niveles de potencia, 6 programas predeterminados de cocinado, Funciones para descongelar, Opción de descongelar por peso y tiempo, Temporizador, Opción de +30 segundos, Potencia de 1500 Watts'
     },
     {
         'id': 'cocina-microondas-KOR1N3AW-1',
@@ -286,7 +286,7 @@ export const articles = [
         'department':'cocina',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'ALTO 31 CM, ANCHO 52 CM, PROFUNDO 38 CM  , Pantalla incorporada , Reloj integrado  Luz interior, Potencia 500 watts, Material Acero'
     },
     {
         'id': 'cocina-microondas-KOR1N3AW-2',
@@ -294,7 +294,7 @@ export const articles = [
         'department':'cocina',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'ALTO 31 CM, ANCHO 52 CM, PROFUNDO 38 CM  , Pantalla incorporada , Reloj integrado , Función descongelar, Función auto cocinada , Bloqueo para niños , Luz interior, Potencia 1000 watts, Material Acero'
     },
     {
         'id': 'cocina-microondas-KOR1N3AW-3',
@@ -302,7 +302,7 @@ export const articles = [
         'department':'cocina',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'ALTO 31 CM, ANCHO 52 CM, PROFUNDO 38 CM  , Pantalla incorporada , Reloj integrado , Función descongelar, Función auto cocinada , Bloqueo para niños , Luz interior, Potencia 1500 watts, Material Acero'
     },
     {
         'id': 'cocina-refrigeradores-RMA300FJMRE-1',
@@ -404,7 +404,7 @@ export const articles = [
         'id': 'cocina-estufas-AF5001Z-1',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'LG',
         'size':'',
         'description':'ALTO 92 CM, ANCHO 57 CM , PROFUNDO 58 CM, Tipo de alimentación: gas, Con encendido electrónico para mayor comodidad , 6 quemadores , 3 parrillas de alambrón , Horno de Gran Capacidad , Horno con Ventana Extragrande, Perillas ergonómicas con puntero cromado, Cubierta Porcelanizada'
     },
@@ -412,7 +412,7 @@ export const articles = [
         'id': 'cocina-estufas-AF5001Z-2',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'LG',
         'size':'',
         'description':'ALTO 92 CM, ANCHO 77 CM , PROFUNDO 60 CM, Tipo de alimentación: gas, Con encendido electrónico para mayor comodidad , 6 quemadores , 3 parrillas de alambrón , Horno de Gran Capacidad , Horno con Ventana Extragrande, Perillas ergonómicas con puntero cromado, Cubierta Porcelanizada'
     },
@@ -420,7 +420,7 @@ export const articles = [
         'id': 'cocina-estufas-AF5001Z-3',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'LG',
         'size':'',
         'description':'ALTO 82 CM, ANCHO 77 CM , PROFUNDO 58 CM, Tipo de alimentación: gas, Con encendido electrónico para mayor comodidad , 6 quemadores , 3 parrillas de alambrón , Horno de Gran Capacidad , Horno con Ventana Extragrande, Perillas ergonómicas con puntero cromado, Cubierta Porcelanizada'
     },
@@ -428,7 +428,7 @@ export const articles = [
         'id': 'cocina-estufas-AF5001Z-4',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'LG',
         'size':'',
         'description':'ALTO 99 CM, ANCHO 87 CM , PROFUNDO 69 CM, Tipo de alimentación: gas, Con encendido electrónico para mayor comodidad , 6 quemadores , 3 parrillas de alambrón , Horno de Gran Capacidad , Horno con Ventana Extragrande, Perillas ergonómicas con puntero cromado, Cubierta Porcelanizada'
     },
@@ -540,57 +540,57 @@ export const articles = [
         'id': 'cocina-congeladores-WRH1810GBMX-1',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'WINIA',
         'size':'',
-        'description':''
+        'description':'ALTO 1.76 METROS, ANCHO 89 CM , PROFUNDO 81 CM  , Congelador vertical con múltiples anaqueles, Iluminado por una lámpara LED, Cuenta con 3 niveles de temperatura (Frío -15° / Recomendable -18° / Más Frío -21°),  Panel de fácil uso interno.'
     },
     {
         'id': 'cocina-congeladores-WRH1810GBMX-2',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'WINIA',
         'size':'',
-        'description':''
+        'description':'ALTO 1.66 METROS, ANCHO 80 CM , PROFUNDO 60 CM  , Congelador vertical con múltiples anaqueles, Iluminado por una lámpara LED, Cuenta con 3 niveles de temperatura (Frío -15° / Recomendable -18° / Más Frío -21°),  Panel de fácil uso interno.'
     },
     {
         'id': 'cocina-congeladores-WRH1810GBMX-3',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'WINIA',
         'size':'',
-        'description':''
+        'description':'ALTO 1.76 METROS, ANCHO 89 CM , PROFUNDO 81 CM  , Congelador vertical con múltiples anaqueles, Iluminado por una lámpara LED, Cuenta con 3 niveles de temperatura (Frío -15° / Recomendable -18° / Más Frío -21°),  Panel de fácil uso interno.'
     },
     {
         'id': 'cocina-congeladores-WRH1810GBMX-4',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'WINIA',
         'size':'',
-        'description':''
+        'description':'ALTO 1.80 METROS, ANCHO 90 CM , PROFUNDO 81 CM  , Congelador vertical con múltiples anaqueles, Iluminado por una lámpara LED, Cuenta con 3 niveles de temperatura (Frío -15° / Recomendable -18° / Más Frío -21°),  Panel de fácil uso interno.'
     },
     {
         'id': 'cocina-congeladores-CRIOTEC-1',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'CRIOTEC',
         'size':'',
-        'description':''
+        'description':'ALTO 77 CM , ANCHO 1.80 METROS , PROFUNDO 70 CM  , 20 PIES, Puerta sólida con jaladera embutida  , Aislamiento ecológico de poliuretano con agente espumante C5 (ciclopentano) , Evaporador y condensador estático, Luz indicadora de encendido'
     },
-    {
+    { 
         'id': 'cocina-congeladores-CRIOTEC-2',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'CRIOTEC',
         'size':'',
-        'description':''
+        'description':'ALTO 87 CM , ANCHO 1.88 METROS , PROFUNDO 80 CM  , 25 PIES, Rango de temperatura -18°C a -24°C , Puerta sólida con jaladera embutida  , Aislamiento ecológico de poliuretano con agente espumante C5 (ciclopentano) , Evaporador y condensador estático, Luz indicadora de encendido , Desagüe interior, 1 canastilla de alambre para exhibición'
     },
     {
         'id': 'cocina-congeladores-CRIOTEC-3',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'CRIOTEC',
         'size':'',
-        'description':''
+        'description':'ALTO 87 CM , ANCHO 1.88 METROS , PROFUNDO 80 CM  , 25 PIES, Rango de temperatura -18°C a -24°C , Puerta sólida con jaladera embutida  , Aislamiento ecológico de poliuretano con agente espumante C5 (ciclopentano) , Evaporador y condensador estático, Luz indicadora de encendido , Desagüe interior, 1 canastilla de alambre para exhibición'
     },
     {
         'id': 'cocina-congeladores-CRIOTEC-4',
@@ -598,311 +598,311 @@ export const articles = [
         'department':'cocina',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'ALTO 87 CM , ANCHO 1.88 METROS , PROFUNDO 80 CM  , 25 PIES, Rango de temperatura -18°C a -24°C , Puerta sólida con jaladera embutida  , Aislamiento ecológico de poliuretano con agente espumante C5 (ciclopentano) , Evaporador y condensador estático, Luz indicadora de encendido , Desagüe interior, 2 canastilla de alambre para exhibición'
     },
     {
         'id': 'cocina-congeladores-FC15D6BWX-1',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'HISENSE',
         'size':'',
-        'description':''
+        'description':'ALTO 66 CM, ANCHO 1. 35 METROS, PROFUNDO 63 CM, CAPACIDAD DE 15 PIES, CONTROL DE TEMPERATURA DE HASTA -18°C A, FUNCIONA COMO REFRIGERADOR Y CONGELADOR, CERRADURA DE PUERTA, CONGELADO DE ALIMENTOS RAPIDOS EN 30 MIN, RUEDA UNIVERSAL, CAJON EXTRAIBLE, DRENAJE DE AGUA, CANASTILLA DE ACERO DESLIZABLES'
     },
     {
         'id': 'cocina-congeladores-FC15D6BWX-2',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'HISENSE',
         'size':'',
-        'description':''
+        'description':'ALTO 76 CM, ANCHO 1. 40 METROS, PROFUNDO 69 CM, CAPACIDAD DE 15 PIES, CONTROL DE TEMPERATURA DE HASTA -18°C A, FUNCIONA COMO REFRIGERADOR Y CONGELADOR, CERRADURA DE PUERTA, CONGELADO DE ALIMENTOS RAPIDOS EN 30 MIN, RUEDA UNIVERSAL, CAJON EXTRAIBLE, DRENAJE DE AGUA, RECUBRIMIENTO INTERNO, CANASTILLA DE ACERO DESLIZABLES'
     },
     {
         'id': 'cocina-congeladores-FC15D6BWX-3',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'HISENSE',
         'size':'',
-        'description':''
+        'description':'ALTO 86 CM, ANCHO 1. 45 METROS, PROFUNDO 73 CM, CAPACIDAD DE 15 PIES, CONTROL DE TEMPERATURA DE HASTA -18°C A, FUNCIONA COMO REFRIGERADOR Y CONGELADOR, CERRADURA DE PUERTA, CONGELADO DE ALIMENTOS RAPIDOS EN 30 MIN, RUEDA UNIVERSAL, CAJON EXTRAIBLE, DRENAJE DE AGUA, RECUBRIMIENTO INTERNO, CANASTILLA DE ACERO DESLIZABLES'
     },
     {
         'id': 'cocina-congeladores-MFCD09P2NABW-1',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'MIDEA',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM  ,ANCHO 99 CM , PROFUNDO 60 CM , 9 PIES , Control de temperatura convertible a refrigerador, Espacios Inteligentes, Diseño Vanguardista, Iluminación LED, Manija con llave de seguridad ,  Modo refrigerador va de 0°c a los -10°c, Modo congelador va de -24°c a los -12°c'
     },
     {
         'id': 'cocina-congeladores-MFCD09P2NABW-2',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'MIDEA',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM  ,ANCHO 99 CM , PROFUNDO 60 CM , 9 PIES , Control de temperatura convertible a refrigerador, Espacios Inteligentes, Diseño Vanguardista, Iluminación LED, Manija con llave de seguridad ,  Modo refrigerador va de 0°c a los -10°c, Modo congelador va de -24°c a los -12°c'
     },
     {
         'id': 'cocina-congeladores-MFCD09P2NABW-3',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'MIDEA',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM  ,ANCHO 99 CM , PROFUNDO 60 CM , 9 PIES , Control de temperatura convertible a refrigerador, Espacios Inteligentes, Diseño Vanguardista, Iluminación LED, Manija con llave de seguridad ,  Modo refrigerador va de 0°c a los -10°c, Modo congelador va de -24°c a los -12°c'
     },
     {
         'id': 'cocina-congeladores-MFCD09P2NABW-4',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'MIDEA',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM  ,ANCHO 99 CM , PROFUNDO 60 CM , 9 PIES , Control de temperatura convertible a refrigerador, Espacios Inteligentes, Diseño Vanguardista, Iluminación LED, Manija con llave de seguridad ,  Modo refrigerador va de 0°c a los -10°c, Modo congelador va de -24°c a los -12°c'
     },
     {
         'id': 'cocina-congeladores-MFCD09P2NABW-5',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'MIDEA',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM  ,ANCHO 99 CM , PROFUNDO 60 CM , 9 PIES , Control de temperatura convertible a refrigerador, Espacios Inteligentes, Diseño Vanguardista, Iluminación LED, Manija con llave de seguridad ,  Modo refrigerador va de 0°c a los -10°c, Modo congelador va de -24°c a los -12°c'
     },
     {
         'id': 'cocina-congeladores-MFCD09P2NABW-6',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'MIDEA',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM  ,ANCHO 99 CM , PROFUNDO 60 CM , 9 PIES , Control de temperatura convertible a refrigerador, Espacios Inteligentes, Diseño Vanguardista, Iluminación LED, Manija con llave de seguridad ,  Modo refrigerador va de 0°c a los -10°c, Modo congelador va de -24°c a los -12°c'
     },
     {
         'id': 'cocina-congeladores-MFCD09P2NABW-7',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'MIDEA',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM  ,ANCHO 99 CM , PROFUNDO 60 CM , 9 PIES , Control de temperatura convertible a refrigerador, Espacios Inteligentes, Diseño Vanguardista, Iluminación LED, Manija con llave de seguridad ,  Modo refrigerador va de 0°c a los -10°c, Modo congelador va de -24°c a los -12°c'
     },
     {
         'id': 'cocina-congeladores-FC50D6AWX-1',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'HISENSE',
         'size':'',
-        'description':''
+        'description':' ALTO 85 CM , ANCHO 70 CM  , PROFUNDO 56 CM  , Capacidad de 5 pies, Botón indicador de encendido'
     },
     {
         'id': 'cocina-congeladores-FC50D6AWX-2',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'HISENSE',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM , ANCHO 70 CM  , PROFUNDO 56 CM  , Capacidad de 5 pies  , Convertible a refrigerador, Tres niveles de enfriamiento ,  Recubrimiento de aluminio , Botón indicador de encendido'
     },
     {
         'id': 'cocina-congeladores-FC50D6AWX-3',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'HISENSE',
         'size':'',
-        'description':''
+        'description':'ALTO 85 CM , ANCHO 70 CM  , PROFUNDO 56 CM  , Capacidad de 5 pies  , Convertible a refrigerador, Tres niveles de enfriamiento ,  Recubrimiento de aluminio , Botón indicador de encendido'
     },
     {
         'id': 'cocina-congeladores-WC0518Q-1',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'WHIRLPOOL',
         'size':'',
-        'description':''
+        'description':'ALTO 80 CM, ANCHO 50 CM , PROFUNDO 60 CM  ,Indicador de encendido, Ruedas para fácil desplazamiento , Puerta blanca con apertura superior con jaladera integrada'
     },
     {
         'id': 'cocina-congeladores-WC0518Q-2',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'WHIRLPOOL',
         'size':'',
-        'description':''
+        'description':'ALTO 77 CM, ANCHO 48 CM , PROFUNDO 60 CM  , 4 PIES,1 canasta de alambrón, Indicador de encendido, Ruedas para fácil desplazamiento , Puerta blanca con apertura superior con jaladera integrada, Termostato de -22°C a 6°C,Sistema de deshielo push button'
     },
     {
         'id': 'cocina-congeladores-WC0518Q-3',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'WHIRLPOOL',
         'size':'',
-        'description':''
+        'description':'ALTO 80 CM, ANCHO 54 CM , PROFUNDO 65 CM  , 5 PIES,1 canasta de alambrón, Llave de seguridad, Sistema de drenado, Indicador de encendido, Ruedas para fácil desplazamiento , Puerta blanca con apertura superior con jaladera integrada, Termostato de -22°C a 6°C,Sistema de deshielo push button'
     },
     {
         'id': 'cocina-congeladores-WC0518Q-4',
         'name':'CGI',
         'department':'cocina',
-        'marca':'Carreiro',
+        'marca':'WHIRLPOOL',
         'size':'',
-        'description':''
+        'description':'ALTO 87 CM, ANCHO 58 CM , PROFUNDO 65 CM  , 5 PIES,1 canasta de alambrón, Llave de seguridad, Sistema de drenado, Indicador de encendido, Ruedas para fácil desplazamiento , Puerta blanca con apertura superior con jaladera integrada, Termostato de -22°C a 6°C,Sistema de deshielo push button'
     },
     {
         'id': 'servicio-lavadoras-LRK1611A-1',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ ',
         'size':'',
-        'description':''
+        'description':'ALTO 94 CM, ANCHO 64 CM, Capacidad 16 kg,Tina de una sola pieza con doble porcelaniz,, Agitador de 3 aspas en espiral'
     },
     {
         'id': 'servicio-lavadoras-LRK1611A-2',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ ',
         'size':'',
-        'description':''
+        'description':'ALTO 64 CM, ANCHO 50 CM, Capacidad 9 kg, Sistema de polea, Tapa “Lava-Talla” de plástico, Timer automático de programación de 0-20 min , 4 Programas de lavado, Tina de una sola pieza con doble porcelaniz,, Agitador de 3 aspas en espiral'
     },
     {
         'id': 'servicio-lavadoras-LRK1611A-3',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ ',
         'size':'',
-        'description':''
+        'description':'ALTO 94 CM, ANCHO 64 CM, Capacidad 10 kg, Sistema de polea, Tapa “Lava-Talla” de plástico, Timer automático de programación de 0-20 min , 4 Programas de lavado, Tina de una sola pieza con doble porcelaniz,, Agitador de 3 aspas en espiral'
     },
     {
         'id': 'servicio-lavadoras-LRK1611A-4',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ ',
         'size':'',
-        'description':''
+        'description':'ALTO 94 CM, ANCHO 64 CM, Capacidad 16 kg, Sistema de polea, Tapa “Lava-Talla” de plástico, Timer automático de programación de 0-20 min , 4 Programas de lavado, Tina de una sola pieza con doble porcelaniz,, Agitador de 3 aspas en espiral'
     },
     {
         'id': 'servicio-lavadoras-LRK1611A-5',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ ',
         'size':'',
-        'description':''
+        'description':'ALTO 94 CM, ANCHO 64 CM, Capacidad 25 kg, Sistema de polea, Tapa “Lava-Talla” de plástico, Timer automático de programación de 0-20 min , 4 Programas de lavado, Tina de una sola pieza con doble porcelaniz,, Agitador de 3 aspas en espiral'
     },
     {
         'id': 'servicio-lavadoras-ALF1551ER1-1',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'ACROS',
         'size':'',
-        'description':''
+        'description':'ALTO 92 CM , ANCHO 59 CM , Gran Capacidad de 10 kg, 3 Programas recomendados, 10 minutos de lavado'
     },
     {
         'id': 'servicio-lavadoras-ALF1551ER1-2',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'ACROS',
         'size':'',
-        'description':''
+        'description':'ALTO 72 CM , ANCHO 49 CM , Gran Capacidad de 12 kg, 4 Programas recomendados, 15 minutos de lavado, Tina de acero porcelanizado, Agitador recto con aspas'
     },
     {
         'id': 'servicio-lavadoras-ALF1551ER1-3',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'ACROS',
         'size':'',
-        'description':''
+        'description':'ALTO 92 CM , ANCHO 59 CM , Gran Capacidad de 15 kg, 5 Programas recomendados, 15 minutos de lavado, Tina de acero porcelanizado, Agitador recto con aspas'
     },
     {
         'id': 'servicio-lavadoras-ALF1551ER1-4',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'ACROS',
         'size':'',
-        'description':''
+        'description':'ALTO 92 CM , ANCHO 59 CM , Gran Capacidad de 15 kg, 5 Programas recomendados, 25 minutos de lavado, Tina de acero porcelanizado, Agitador recto con aspas'
     },
     {
         'id': 'servicio-lavadoras-ALF1551ER1-5',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'ACROS',
         'size':'',
-        'description':''
+        'description':'ALTO 92 CM , ANCHO 59 CM , Gran Capacidad de 25 kg, 6 Programas recomendados, 15 minutos de lavado, Tina de acero porcelanizado, Agitador recto con aspas'
     },
     {
         'id': 'servicio-lavadoras-LRE18V-1',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'EASY',
         'size':'',
-        'description':''
+        'description':'ALTO 78 CM,  ANCHO 60 CM , Tipo de lavadora manual , Lava y enjuaga en tan sólo 25 minutos, Capacidad de carga de 10kg, Sistema de Lavado: Por agitador de aspas rectas, Ciclos de lavado: 6, Tipo de control: Perilla, Tina Porcelanizada'
     },
     {
         'id': 'servicio-lavadoras-LRE18V-2',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'EASY',
         'size':'',
-        'description':''
+        'description':'ALTO 98 CM,  ANCHO 70 CM , Tipo de lavadora manual , Lava y enjuaga en tan sólo 25 minutos, Capacidad de carga de 18kg, Sistema de Lavado: Por agitador de aspas rectas, Ciclos de lavado: 6, Tipo de control: Perilla, Tina Porcelanizada'
     },
     {
         'id': 'servicio-lavadoras-LRKF21P-1',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ ',
         'size':'',
-        'description':''
+        'description':'ALTO 99 CM, ANCHO 65 CM , Capacidad 21.0 kg, Sistema de polea, Tapa Metal, Timer automático de programación de 0-20 min, 4 Programas de lavado, Tina de una sola pieza con doble porcelanizado, Agitador de 3 aspas en espiral, Desagüe por gravedad'
     },
     {
         'id': 'servicio-lavadoras-LRKF21P-2',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ ',
         'size':'',
-        'description':''
+        'description':'ALTO 89 CM, ANCHO 55 CM , Capacidad 11.0 kg, Sistema de polea, Tapa Metal, 3 Programas de lavado, Tina de una sola pieza con doble porcelanizado, Agitador de 3 aspas en espiral, Desagüe por gravedad'
     },
     {
         'id': 'servicio-lavadoras-LRKF21P-3',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ ',
         'size':'',
-        'description':''
+        'description':'ALTO 99 CM, ANCHO 65 CM , Capacidad 11.0 kg, Sistema de polea, Tapa Metal, Timer automático de programación de 0-20 min, 4 Programas de lavado, Tina de una sola pieza con doble porcelanizado, Agitador de 3 aspas en espiral, Desagüe por gravedad'
     },
     {
         'id': 'servicio-lavadoras-LRKF21P-4',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'KOBLENZ',
         'size':'',
-        'description':''
+        'description':'ALTO 99 CM, ANCHO 65 CM , Capacidad 21.0 kg, Sistema de polea, Tapa Metal, Timer automático de programación de 0-20 min, 4 Programas de lavado, Tina de una sola pieza con doble porcelanizado, Agitador de 3 aspas en espiral, Desagüe por gravedad'
     },
     {
         'id': 'servicio-lavadoras-LRE18V-3', 
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'EASY',
         'size':'',
-        'description':''
+        'description':'ALTO 98 CM,  ANCHO 70 CM , Tipo de lavadora manual , Lava y enjuaga en tan sólo 25 minutos, Capacidad de carga de 18kg, Sistema de Lavado: Por agitador de aspas rectas, Ciclos de lavado: 6, Tipo de control: Perilla, Tina Porcelanizada'
     },
     {
         'id': 'servicio-planchas-GCSTUP8202-1',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'OSTER',
         'size':'',
-        'description':''
+        'description':'Suela amplia Multi – Direccional, 350+ Micro orificios reales de vapor, Botón de rociado, Antigoteo, Plexo canales para una distribución uniforme del vapor, Suela de cerámica de doble, Mango suave ergonómico con indicador de temperatura, Toma de agua 4 veces más ancho que las planchas convencionales. '
     },
     {
         'id': 'servicio-planchas-GCSTUP8202-2',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'OSTER',
         'size':'',
-        'description':''
+        'description':'Botón de rociado, Antigoteo, Plexo canales para una distribución uniforme del vapor, Suela de cerámica de doble, Mango suave ergonómico con indicador de temperatura, Toma de agua 4 veces más ancho que las planchas convencionales. '
     },
     {
         'id': 'servicio-planchas-GCSTUP8202-3',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'OSTER',
         'size':'',
-        'description':''
+        'description':'Suela amplia Multi – Direccional, Antigoteo, Plexo canales para una distribución uniforme del vapor, Suela de cerámica de doble, Mango suave ergonómico con indicador de temperatura, Toma de agua 4 veces más ancho que las planchas convencionales. '
     },
     {
         'id': 'servicio-planchas-GCSTUP8202-4',
         'name':'CGI',
         'department':'servicio',
-        'marca':'Carreiro',
+        'marca':'OSTER',
         'size':'',
-        'description':''
+        'description':'Suela amplia Multi – Direccional, 350+ Micro orificios reales de vapor, Botón de rociado, Antigoteo, Plexo canales para una distribución uniforme del vapor, Suela de cerámica de doble, Mango suave ergonómico con indicador de temperatura, Toma de agua 4 veces más ancho que las planchas convencionales. '
     },
     {
         'id': 'recamaras-CarreiroCGI',
@@ -910,23 +910,23 @@ export const articles = [
         'department':'recamaras',
         'marca':'Carreiro',
         'size':'',
-        'description':''
+        'description':'Firme - Confortable, Pocket Spring / Resortes Independientes, Tela: Strechs blanco turquesa, taslan turquesa, Disponible, Matrimonial 1.35 x 1.90 METROS , Queen Size 1.50 x 1.90 METROS, King Size 2.00 x 1.90'
     },
     {
         'id': 'recamaras-RestonicElegance',
         'name':'ELEGANCE', 
         'department':'recamaras', 
-        'marca':'Kal-El',
+        'marca':'RESTONIC',
         'size':'',
-        'description':''
+        'description':'euro top, Semi firme , Cajon Tela Jaquard, Tapa Tela Strech, Placa de espuma super suave,    Disponible , Matrimonial 1.35 x 1.90 METROS , Queen Size 1.50 x 1.90 METROS, King Size 2.00 x 1.90'
     },
     {
         'id': 'recamaras-RestonicLegend',
         'name':'Legend', 
         'department':'recamaras', 
-        'marca':'Restonic',
+        'marca':'RESTONIC',
         'size':'',
-        'description':''
+        'description':'Sensation Extra Comfort, TAPA STRETCH. TELA EXTRA SUAVE - FRESH, Resortes Pocket Encased , Sistema Worry Free, mantiene alto nivel de soporte por mas tiempo., No necesita voltear sino girar cada 3 meses'
     },
     {
         'id': 'recamaras-ventiladores-922P-2',
@@ -934,7 +934,7 @@ export const articles = [
         'department':'recamaras', 
         'marca':'Restonic',
         'size':'',
-        'description':''
+        'description':'Material: plástico, No incluye control remoto, Potencia: 70 W, Voltaje: 120 V, Alto: 80 cm , Ancho: 49 cm, Cuenta con 3 velocidades'
     },
     {
         'id': 'recamaras-ventiladores-922P',
@@ -942,7 +942,7 @@ export const articles = [
         'department':'recamaras', 
         'marca':'Restonic',
         'size':'',
-        'description':''
+        'description':'Material: plástico, Incluye control remoto, Potencia: 60 W, Voltaje: 120 V, Alto: 80 cm , Ancho: 49 cm, Cuenta con 5 velocidades'
     },
     {
         'id': 'recamaras-ventiladores-3123-2',
@@ -950,7 +950,8 @@ export const articles = [
         'department':'recamaras', 
         'marca':'Restonic',
         'size':'',
-        'description':'jala chido es del tadeo'
+        'description': 'Material: plástico, Incluye control remoto, Potencia: 90 W, Voltaje: 120 V, Alto: 90 cm , Ancho: 49 cm, Cuenta con 5 velocidades'
+
     },
     {
         'id': 'recamaras-ventiladores-3123-3',
@@ -958,7 +959,8 @@ export const articles = [
         'department':'recamaras', 
         'marca':'Restonic',
         'size':'',
-        'description':''
+         'description': 'Material: plástico, Incluye control remoto, Potencia: 70 W, Voltaje: 120 V, Alto: 100 cm , Ancho: 49 cm, Cuenta con 7 velocidades'
+       
     },
     {
         'id': 'recamaras-ventiladores-3123-4',
@@ -966,7 +968,7 @@ export const articles = [
         'department':'recamaras', 
         'marca':'Restonic',
         'size':'',
-        'description':''
+        'description':'Material: plástico, No incluye control remoto, Potencia: 80 W, Voltaje: 120 V, Alto: 60 cm , Ancho: 50 cm, Cuenta con 3 velocidades'
     },
     {
         'id': 'recamaras-ventiladores-3123-5',
@@ -974,7 +976,7 @@ export const articles = [
         'department':'recamaras', 
         'marca':'Restonic',
         'size':'',
-        'description':''
+        'description':'Material: plástico, No incluye control remoto, Potencia: 80 W, Voltaje: 120 V, Alto: 60 cm , Ancho: 50 cm, Cuenta con 3 velocidades'
     },
     {
         'id': 'recamaras-ventiladores-3123',
@@ -1066,122 +1068,122 @@ export const articles = [
     },
     {
         'id': 'salas-cojines-1',
-        'name':'Spider Man', 
+        'name':'AME', 
         'department':'salas', 
-        'marca':'Peter Parker',
-        'size':'Amazing Fantasy #15',
+        'marca':'AMERICAS',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-1-2',
-        'name':'Captain America', 
+        'name':'AME', 
         'department':'salas', 
-        'marca':'Steve Rogers',
-        'size':'Captain America Comics #1',
+        'marca':'AMERICAS',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-2',
-        'name':'Iron Man', 
+        'name':'RSTONIC', 
         'department':'salas', 
-        'marca':'Tony Stark',
-        'size':'Tales of Suspense #39',
+        'marca':'RESTONIC',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-2-2',
-        'name':'Thor', 
+        'name':'RESTONIC', 
         'department':'salas', 
-        'marca':'Thor Odinson',
-        'size':'Journey into Myster #83',
+        'marca':'RESTONIC',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-2-3',
-        'name':'Hulk', 
+        'name':'BAMBOO', 
         'department':'salas', 
-        'marca':'Bruce Banner',
-        'size':'The Incredible Hulk #1',
+        'marca':'BAMBOO',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-3',
-        'name':'Wolverine', 
+        'name':'BAMBOO', 
         'department':'salas', 
-        'marca':'James Howlett',
-        'size':'The Incredible Hulk #180',
+        'marca':'BAMBOO',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-3-2',
-        'name':'Daredevil', 
+        'name':'DICO', 
         'department':'salas', 
-        'marca':'Matthew Michael Murdock',
-        'size':'Daredevil #1',
+        'marca':'DICO',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-4',
-        'name':'Hawkeye', 
+        'name':'AIRNOSS', 
         'department':'salas', 
-        'marca':'Clinton Francis Barton',
-        'size':'Tales of Suspense #57',
+        'marca':'AIRNOSS',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-4-2',
-        'name':'Cyclops', 
+        'name':'SPRING AIR', 
         'department':'salas', 
-        'marca':'Scott Summers',
-        'size':'X-Men #1',
+        'marca':'SPRING AIR',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-5',
-        'name':'Silver Surfer', 
+        'name':'NAUTICA COJINES', 
         'department':'salas', 
-        'marca':'Norrin Radd',
-        'size':'The Fantastic Four #48',
+        'marca':'NAUTICA COJINES',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-5-2',
-        'name':'Silver Surfer', 
+        'name':'BOSS', 
         'department':'salas', 
-        'marca':'Norrin Radd',
+        'marca':'BOSS',
         'size':'The Fantastic Four #48',
         'description':'Norrin Radd'
     },
     {
         'id': 'salas-cojines-5-3',
-        'name':'Silver Surfer', 
+        'name':'RSTONIC', 
         'department':'salas', 
-        'marca':'Norrin Radd',
-        'size':'The Fantastic Four #48',
+        'marca':'RSTONIC',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-6',
-        'name':'Silver Surfer', 
+        'name':'RESTONIC', 
         'department':'salas', 
-        'marca':'Norrin Radd',
-        'size':'The Fantastic Four #48',
+        'marca':'RESTONIC',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-6-2',
-        'name':'Silver Surfer', 
+        'name':'SPRING AIR', 
         'department':'salas', 
-        'marca':'Norrin Radd',
-        'size':'The Fantastic Four #48',
+        'marca':'SPRING AIR',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     },
     {
         'id': 'salas-cojines-6-3',
-        'name':'Silver Surfer', 
+        'name':'RESTONIC', 
         'department':'salas', 
-        'marca':'Norrin Radd',
-        'size':'The Fantastic Four #48',
+        'marca':'RESTONIC',
+        'size':'',
         'description':'Juego de cojin, juego de seis piezas, el color puede variar'
     }
 ]
